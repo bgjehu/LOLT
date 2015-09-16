@@ -1,0 +1,14 @@
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\bin\Debug\LOLT.exe.config
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\bin\Debug\LOLT.exe
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\bin\Debug\LOLT.pdb
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.MainFrame.resources
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.Properties.Resources.resources
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.csproj.GenerateResource.Cache
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.exe
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.pdb
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.Resource00.resources
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\bin\Debug\LOLT.exe.manifest
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\bin\Debug\LOLT.application
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.exe.manifest
+D:\Dropbox\Dev\Stuffs\LOLT\LOLT\obj\Debug\LOLT.application
